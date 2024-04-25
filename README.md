@@ -2,7 +2,7 @@
 
 🏢 I'm currently working on [Grimoire](https://github.com/christensenjo/grimoire), and looking for full-time positions as a Full Stack Engineer.
 
-👨‍💻 See more about me at [joelchristensen.dev](https://portfolio-five-rosy-36.vercel.app/)
+👨‍💻 See more about me at [joelchristensen.dev](https://www.joelchristensen.dev/)
 
 
 <!--START_SECTION:activity-->
