@@ -1,10 +1,13 @@
-# Joel Christensen, Developer
+## Hi! 👋
+
+🏢 I'm currently working on [Grimoire](https://github.com/christensenjo/grimoire), and looking for full-time positions as a Full Stack Engineer.
+
+👨‍💻 See more about me at [joelchristensen.dev](https://portfolio-five-rosy-36.vercel.app/)
 
 <!--
 **christensenjo/christensenjo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
