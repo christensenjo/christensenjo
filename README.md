@@ -1,6 +1,6 @@
 ## Hi! 👋
 
-🏢 I'm currently working on [Grimoire](https://github.com/christensenjo/grimoire), and looking for full-time positions as a Full Stack Engineer.
+🏢 I'm currently working as CTO at Voyyance!
 
 👨‍💻 See more about me at [joelchristensen.dev](https://www.joelchristensen.dev/)
 
