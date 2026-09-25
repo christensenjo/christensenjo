@@ -1,6 +1,6 @@
 ## Hi! 👋
 
-🏢 I'm currently working at Dunc'd On.
+🏢 I'm currently building [Prime Stats](https://primestats.net) at Dunc'd On.
 
 👨‍💻 See more about me at [joelchristensen.dev](https://www.joelchristensen.dev/)
 
