@@ -4,6 +4,7 @@
 
 👨‍💻 See more about me at [joelchristensen.dev](https://www.joelchristensen.dev/)
 
+Find my AI skills toolkit at [/jkit](https://github.com/christensenjo/jkit)
 
 <!--START_SECTION:activity-->
 
